@@ -47,7 +47,3 @@ Guidelines for contributing to the project. -->
 ## License
 
 [GitHub license](./LICENSE.txt)
-
-## Contact
-
-[tg](https://t.me/maxelonej)
